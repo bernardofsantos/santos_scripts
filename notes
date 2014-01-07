@@ -1,0 +1,204 @@
+Cássio e Wally - trazer:
+- Bichos Jataí
+- 6 garrafas de cachaça
+
+Trabalho:
+- Form IT-203
+- Arquivos figuras zootaxa
+
+--> Corrida
+- Filme
+- 
+
+Segunda:
+8h: colocar amostras no freezer -20
+- Evolution shit -	 exportar amostras pra Fasta, análises MrModelTest e MrBayes
+Baixar programas
+- Seminar readings
+- 2h: Nanodrop
+
+Análises Miobantia
+
+- ModelTest					OK
+- MrBayes					OK
+- Network 4.6 (Bandelt et al 1999) --> rede haplótipos
+- Extração dos haplótipos - DnaSPPhase 5.10.01 (Librado & Rozas 2009)
+- Regressão número de haplótipos X número de espécimes por região: modelo linear generalizado (GLM) --> R).  
+- Testes de diversidade haplotípica: R
+- Relação entre as distâncias genética e geográfica: teste de Mantel (correlação Pearson e 10 mil permutações) --> XLSTAT (Fahmy & Aubry 2011).
+- Testes de neutralidade (estimar se população está em equilíbrio ou expansão) --> DnaSP 5.1 (Librado & Rozas 2009). --> Fs (Fu 1997) e R2 (Ramos-Onsins & Rozas 2002)
+- Tempos de divergências: BEAST 1.6.1 (Drummond & Rambaut 2007) relógio relaxado,
+
+perlclass@darwin.internal.amnh.org
+
+pwd d@rw!n
+DIR = NextGen
+to use - ssh
+to move files -sftp
+from offsite must use VPN
+
+
+Ongoing:
+- Polistes			[45%]
+- Melanocryptus		[85%]
+- Trihapsis			[75%]
+- Messatoporus		[99%]
+- Distictus			[65%]
+
+RGGS projects:
+- Molecular clock of Ichneumonidae
+- Polydnavirus
+- Whole mito genomes
+- New markers for Hymenoptera 
+
+Planned:
+- Cryptopteryx
+- Key for Atlantic Forest Cryptinae
+- Jataí
+
+Ideas:
+- Phylogeography Miobantia
+
+Review papers:
+- Ichneumonid phylogeny
+- Ichneumonid fossil record
+- Polydnaviruses
+
+
+Trip to Brazil - Summer 2014:
+* Distictus
+* Jataí
+* Triar Baltazaria
+* Coleção UFES
+* Chave Cryptinae
+* Campo
+
+BLASTING:
+
+./ncbi/bin/blastn - query nameoffile.extension -out nameoffile.txt -remote - db nr -max_target_seqs 10 -outfmt 6
+^Execute and path
+
+
+
+1. Field
+2. Sorting (All Hymenoptera)
+3. Mounting & Labelling (All Ichneumonidae)
+
+4. ID and mspp.
+5. Photos, diagnose, COI sequences
+6. Databasing
+
+
+
+
+
+Biologia						G			20
+Zoologia						PG			10
+Botânica						PG			10
+Boinformática					PG			10
+
+Bioquímica						G			20
+Engenharia química				G			20
+Engenharia ambiental			G			20
+
+Ecologia						G			20
+Economia verde					PG			10
+
+
+
+Estações de pesquisa biosfera
+
+- Campos (1)
+- Pantanal (1) 
+- Mata Atlântica (2) --> Bahia + SP
+- Cerrado (2) --> Jalapão + 
+- Caatinga (1) --
+- Amazônia (3) -
+
+Summer schedule
+Museu: 
+
+- Powdermill
+- Canada
+- Brazil
+
+Agosto no museu
+
+Atividades no Brasil
+
+- Distictus - fotos (2 dias)
+- Loxopus/Baltazaria
+- Jataí; morfoespeciação (1 dia)
+- cursos (6 dias)
+- Material projeto Marcelo (3 dias)
+- triagem bichos recém coletados (1 dia)
+* Triar Baltazaria?
+* Fotos chave Cryptinae
+
++ Projeto NextGen (7 dias)
++ Estudar Python (7 dias)
+
+Campo:
+P.N. Descobrimento + Caraíva (7 dias)
+TERÇA: Vitória --> Itamaraju  (5h30-12h30)
+		5 Malaises; noite: louva a deus
+QUARTA: 10 Malaises; YPTs; noite: louva a deus
+QUINTA: recolher YPTs; Itamaraju - Caraíva 
+SEXTA: Caraíva
+SÁBADO: Caraíva
+DOMINGO: Caraíva; Caraíva - Itamaraju
+SEGUNDA: Recolher Malaises; Itamaraju --> Vitória
+
+Lazer:
+Guarapari: 3 dias
+Passear com Jim: 1 dia
+
+
+Syrio Forell
+Khal Drogo
+Jaime Lannister
+Gregor Clegane
+Sandor Clegane
+Robert Baratheon
+Loras Tyrell
+Brienne of Tarth
+
+Victarion Greyjoy
+Barristan Selmy
+Areo Hotah
+Oberyn Martell
+
+Greatjon Umber
+Thoros of Myr
+
+Cássio e Wally
+
+
+Restaurantes
+- Collichio and sons
+- Swagat
+- Betolona
+
+Bares
+
+Fat Cat
+Jake's
+Sunburnt calf
+Winston (Churchill?)
+
+Atrações
+- Estátua da liberdade
+- Wall street
+- South street seaport
+- ONU
+- Chinatown
+- High line
+- Central Park
+- Metropolitan
+- Guggenheim
+- MoMa
+- AMNH
+- Williamsburg
+- Jardim Botânico
+- Show na Broadway
+
